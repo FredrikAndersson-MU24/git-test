@@ -1,3 +1,5 @@
 Hej, det här är starten på vårt projekt.
 Vi fortsäätter att skriva.
 Vi skriver ännu mer.
+
+Skriver från klonen.
