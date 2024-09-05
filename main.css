@@ -3,6 +3,18 @@ html {
 }
 
 body {
-    background-color: #353535;
-    color: rgb(180, 157, 255);
+    background-color: #000000;
+    color: antiquewhite;
+}
+
+a {
+    color: antiquewhite;
+}
+
+a:visited {
+    color:lightblue;
+}
+
+a:hover {
+    color:antiquewhite;
 }
